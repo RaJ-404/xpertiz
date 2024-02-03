@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>MARKETING &#8211; Phlox Business</title>
+	<title>MARKETING &#8211; Xpertiz</title>
 	<atom:link href="https://raj-404.github.io/xpertiz/portfolio-cat/marketing/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raj-404.github.io/xpertiz</link>
-	<description>Just another Complete Elementor Demos - Phlox WordPress Theme site</description>
+	<description></description>
 	<lastBuildDate>Sun, 05 Jan 2020 10:12:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://raj-404.github.io/xpertiz/wp-content/uploads/2024/02/Xpertiz-Profile-1-02-7.png</url>
+	<title>MARKETING &#8211; Xpertiz</title>
+	<link>https://raj-404.github.io/xpertiz</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Basket of Flower on table</title>
 		<link>https://raj-404.github.io/xpertiz/portfolio/basket-of-flower-on-table/</link>

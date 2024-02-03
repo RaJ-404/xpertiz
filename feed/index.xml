@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Phlox Business</title>
+	<title>Xpertiz</title>
 	<atom:link href="https://raj-404.github.io/xpertiz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://raj-404.github.io/xpertiz</link>
-	<description>Just another Complete Elementor Demos - Phlox WordPress Theme site</description>
+	<description></description>
 	<lastBuildDate>Sat, 03 Feb 2024 21:52:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://raj-404.github.io/xpertiz/wp-content/uploads/2024/02/Xpertiz-Profile-1-02-7.png</url>
+	<title>Xpertiz</title>
+	<link>https://raj-404.github.io/xpertiz</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>British Designer Create Arras</title>
 		<link>https://raj-404.github.io/xpertiz/2020/01/04/british-designer-create-arras/</link>
